@@ -6,3 +6,5 @@ Footer redirections are working perfectly.
 Deepak later added connection links to social media icons.
 we dont developed any backend pages for this project
 we will work on creating admin panel 
+
+images to be added in frontend.
